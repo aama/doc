@@ -3,7 +3,7 @@
 Here you will find documentation of:
 
 * the aama [data format]
-* the aama [tools](../tools)
+* the aama [tools](https://github.com/aama/tools)
 * use of sparql as the aama query language
 * etc.
 
